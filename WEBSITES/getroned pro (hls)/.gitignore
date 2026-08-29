@@ -1,0 +1,19 @@
+config.js
+
+# Local Netlify folder
+.netlify
+
+# Environment variables
+.env
+
+nul
+__subtest.html
+.hw-check.py
+
+# Vps files
+/vps
+
+/test
+# HyperFrames build project (composition source kept, artifacts regenerable)
+videos/pro-no-ads/snapshots/
+videos/pro-no-ads/renders/
